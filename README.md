@@ -29,3 +29,5 @@ Temos anúncios mostrando coisas relevantes para nossos leitores, como vagas de 
 Índice de opções 
 
 Com o índice você tem fácil acesso as varia páginas e abas do nosso jornal. Que conta com a página principal com as notícias mais recentes, uma página chamada "Sobre Nós" onde você pode descobrir mais sobre quem são os desenvolvedores e jornalistas que fazem esse jornal funcionar. 
+
+https://makaria111.github.io/jornal2/
